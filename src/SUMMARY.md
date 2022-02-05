@@ -1,0 +1,15 @@
+# Table of Contents
+
+- [Table of Contents](./SUMMARY.md)
+- [Caddy](./caddy.md)
+- [Setup](./setup.md)
+- [Dynamic](./dynamic/_index.md)
+  - [Monitor](./dynamic/monitor.md)
+  - [Recipes](./dynamic/recipes.md)
+- [Static](./static/_index.md)
+  - [Blog](./static/blog.md)
+  - [Crypto Charts](./static/crypto-charts.md)
+  - [Music](./static/music.md)
+  - [Walk](./static/walk.md)
+- [Third Party](./third-party/_index.md)
+  - [Gitea](./third-party/gitea.md)

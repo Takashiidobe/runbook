@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+# Install mdbook on Mac using homebrew
+
+if [ "$(uname)" == "Darwin" ]; then
+    if [ "command -v brew" ]; then
+        if [ "command -v mdbook" ]; then
+            echo "All dependencies installed."
+            exit 0
+        else
+            brew install mdbook \
+            echo "All dependencies installed."
+            exit 0
+        fi
+    else
+        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" && \ 
+        brew install mdbook
+    fi
+fi
