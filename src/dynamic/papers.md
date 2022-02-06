@@ -1,32 +1,32 @@
-# Books
+# Papers
 
-Link: <https://books.takashiidobe.com>
+Link: <https://papers.takashiidobe.com>
 
 ## Repository
 
-Repo: <https://github.com/Takashiidobe/books>
+Repo: <https://github.com/Takashiidobe/papers>
 
 ## Systemd file
 
-`books.service`
+`papers.service`
 
 ```toml
 [Unit]
-Description=Books
+Description=Papers
 
 [Service]
 type=oneshot
 User=root
 Group=root
-WorkingDirectory=/home/git/books
+WorkingDirectory=/home/git/papers
 ExecStart=git pull
 ```
 
-`books.timer`
+`papers.timer`
 
 ```toml
 [Unit]
-Description="Pull Books Repo"
+Description="Pull Papers Repo"
 
 [Timer]
 OnUnitActiveSec=1800s
