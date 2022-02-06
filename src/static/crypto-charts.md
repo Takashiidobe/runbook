@@ -1,5 +1,5 @@
 # Crypto Charts
 
-Link: <https://cryptocharts.takashiidobe.com/>
+Link: <https://crypto-charts.takashiidobe.com/>
 
-<iframe src="https://cryptocharts.takashiidobe.com/" width="100%" height="800px"></iframe>
+<iframe src="https://crypto-charts.takashiidobe.com/" width="100%" height="800px"></iframe>

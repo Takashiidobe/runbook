@@ -11,6 +11,7 @@
 - [Notes](notes.md)
 - [Resume](resume.md)
 - [Stocks](stocks.md)
+- [Stock Charts](stock-charts.md)
 - [System Design Primer](system-design-primer.md)
 - [Walk](walk.md)
 - [Weather](weather.md)
