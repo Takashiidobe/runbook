@@ -1,8 +1,10 @@
 # Third Party Services
 
+- [CORS Anywhere](./cors-anywhere.md)
+- [FreshRSS](./freshrss.md)
 - [Gitea](./gitea.md)
-- OpenVPN
-- Nitter
-- Teddit
-- Plausible
-- CORS Anywhere
+- [Linkding](./linkding.md)
+- [Nitter](./nitter.md)
+- [OpenVPN](./openvpn.md)
+- [Plausible](./plausible.md)
+- [Teddit](./teddit.md)

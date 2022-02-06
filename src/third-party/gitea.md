@@ -6,6 +6,10 @@ Link: <https://git.takashiidobe.com>
 
 Docs: <https://docs.gitea.io/en-us/>
 
+## Repository
+
+Repo: <https://github.com/go-gitea/gitea>
+
 ### Systemd file
 
 ```toml

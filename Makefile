@@ -3,7 +3,7 @@ all:
 serve:
 	make generate_toc && mdbook serve
 build:
-	mdbook build
+	make generate_toc && mdbook build
 install:
 	./bin/install
 clean:
