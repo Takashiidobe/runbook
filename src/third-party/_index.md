@@ -7,4 +7,4 @@
 - [Nitter](./nitter.md)
 - [OpenVPN](./openvpn.md)
 - [Plausible](./plausible.md)
-- [Teddit](./teddit.md)
+- [Libreddit](./libreddit.md)
