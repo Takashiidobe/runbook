@@ -42,6 +42,7 @@
   - [Cors Anywhere](./third-party/cors-anywhere.md)
   - [Freshrss](./third-party/freshrss.md)
   - [Gitea](./third-party/gitea.md)
+  - [Joplin](./third-party/joplin.md)
   - [Libreddit](./third-party/libreddit.md)
   - [Linkding](./third-party/linkding.md)
   - [Nitter](./third-party/nitter.md)
