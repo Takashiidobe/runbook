@@ -1,4 +1,7 @@
-# Crypto Dashboard
+# Cryptographic algorithms in Rust
+
+- This repo implements some common cryptography algorithms with finite
+  fields.
 
 Link: <https://crypto.takashiidobe.com/>
 
