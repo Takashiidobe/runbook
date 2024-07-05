@@ -12,3 +12,4 @@
 - [yt-dlp](./yt-dlp.md)
 - [sc-im](./sc-im.md)
 - [mpv](./mpv.md)
+- [panamax](./panamax.md)

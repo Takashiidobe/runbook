@@ -9,3 +9,4 @@
 - [Nitter](./nitter.md)
 - [OpenVPN](./openvpn.md)
 - [Plausible](./plausible.md)
+- [Termux](./termux.md)

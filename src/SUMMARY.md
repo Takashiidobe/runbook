@@ -13,6 +13,7 @@
   - [Kiwix](./apps/kiwix.md)
   - [Mpv](./apps/mpv.md)
   - [Newsboat](./apps/newsboat.md)
+  - [Panamax](./apps/panamax.md)
   - [Sc Im](./apps/sc-im.md)
   - [Yq](./apps/yq.md)
   - [Yt Dlp](./apps/yt-dlp.md)
@@ -51,3 +52,4 @@
   - [Nitter](./third-party/nitter.md)
   - [Openvpn](./third-party/openvpn.md)
   - [Plausible](./third-party/plausible.md)
+  - [Termux](./third-party/termux.md)
